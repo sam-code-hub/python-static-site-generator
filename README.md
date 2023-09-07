@@ -46,3 +46,4 @@ You can preview your work by running the command `python ssg.py` after the first
 #Just a small change to save
 #Adding some more details about the project description.
 
+I am editing the README file. Adding some more details about the project description.
